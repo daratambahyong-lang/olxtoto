@@ -28,7 +28,7 @@
       property="og:description"
       content="OLXTOTO adalah platform permainan togel 4D & slot gacor online dengan pasaran lengkap, bonus menarik, transaksi cepat, dan peluang menang lebih besar setiap hari."
     />
-    <meta property="og:url" content="https://olxtoto.vercel.app/"/>
+    <meta property="og:url" content="https://olxtoto-slot.vercel.app/"/>
     <meta property="product:price:amount" content="55" />
     <meta property="product:price:currency" content="IDR" />
     <meta
@@ -50,7 +50,7 @@
       name="twitter:image"
       content="https://i.pinimg.com/736x/44/99/65/44996523330c1fdf0e09781ffe82ed56.jpg"
     />
-    <link rel="canonical" href="https://olxtoto.vercel.app/"/>
+    <link rel="canonical" href="https://olxtoto-slot.vercel.app/"/>
     <link
       rel="Shortcut icon"
       href="https://imgstore.io/images/2026/01/07/Icon-olxtoto.webp"
@@ -172,10 +172,10 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "name": "OLXTOTO",
-        "url": "https://olxtoto.vercel.app/",
+        "url": "https://olxtoto-slot.vercel.app/",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://olxtoto.vercel.app//search?q={search_term_string}",
+          "target": "https://olxtoto-slot.vercel.app//search?q={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       }
@@ -196,7 +196,7 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://olxtoto.vercel.app/",
+          "url": "https://olxtoto-slot.vercel.app/",
           "priceCurrency": "IDR",
           "price": "0",
           "priceValidUntil": "2026-12-31",
@@ -271,37 +271,37 @@
             "@type": "ListItem",
             "position": 1,
             "name": "OLXTOTO",
-            "item": "https://olxtoto.vercel.app/"
+            "item": "https://olxtoto-slot.vercel.app/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "SITUS TOTO",
-            "item": "https://olxtoto.vercel.app/"
+            "item": "https://olxtoto-slot.vercel.app/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "TOGEL ONLINE",
-            "item": "https://olxtoto.vercel.app/"
+            "item": "https://olxtoto-slot.vercel.app/"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "SLOT ONLINE",
-            "item": "https://olxtoto.vercel.app/"
+            "item": "https://olxtoto-slot.vercel.app/"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "BANDAR TOGEL",
-            "item": "https://olxtoto.vercel.app/"
+            "item": "https://olxtoto-slot.vercel.app/"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "OLXTOTO ⚡️ Platform Permainan Togel 4D & Slot Online Paling Gacor",
-            "item": "https://olxtoto.vercel.app/"
+            "item": "https://olxtoto-slot.vercel.app/"
           }
         ]
       }
@@ -609,7 +609,7 @@
         <div class="container">
           <div class="olxtoto-header-main">
             <div class="olxtoto-header-logo">
-              <a href="https://olxtoto.vercel.app/"class="navbar-brand">
+              <a href="https://olxtoto-slot.vercel.app/"class="navbar-brand">
                 <img
                   src="https://imgstore.io/images/2025/02/19/logo-promo.gif"
                   alt="LOGO olxtoto"
@@ -650,25 +650,25 @@
           <div class="olxtoto-header-nav">
             <ul class="nav navbar-nav m-l-n">
               <li>
-                <a href="https://olxtoto.vercel.app/">SITUS TOTO</a>
+                <a href="https://olxtoto-slot.vercel.app/">SITUS TOTO</a>
               </li>
               <li>
-                <a href="https://olxtoto.vercel.app/">TOGEL ONLINE</a>
+                <a href="https://olxtoto-slot.vercel.app/">TOGEL ONLINE</a>
               </li>
               <li>
-                <a href="https://olxtoto.vercel.app/">SLOT ONLINE</a>
+                <a href="https://olxtoto-slot.vercel.app/">SLOT ONLINE</a>
               </li>
               <li>
-                <a href="https://olxtoto.vercel.app/">BANDAR TOGEL</a>
+                <a href="https://olxtoto-slot.vercel.app/">BANDAR TOGEL</a>
               </li>
               <li>
-                <a href="https://olxtoto.vercel.app/">BANDAR SLOT</a>
+                <a href="https://olxtoto-slot.vercel.app/">BANDAR SLOT</a>
               </li>
               <li>
-                <a href="https://olxtoto.vercel.app/">BANDAR SLOT ONLINE</a>
+                <a href="https://olxtoto-slot.vercel.app/">BANDAR SLOT ONLINE</a>
               </li>
               <li>
-                <a href="https://olxtoto.vercel.app/">BANDAR TOGEL ONLINE</a>
+                <a href="https://olxtoto-slot.vercel.app/">BANDAR TOGEL ONLINE</a>
               </li>
             </ul>
           </div>
@@ -758,16 +758,16 @@
                   onchange="if (!window.__cfRLUnblockHandlers) return false; document.location.href=document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.selectedIndex].value"
                   data-cf-modified-6e95f0843c370e1387aefe5b-
                 >
-                  <option value="https://olxtoto.vercel.app/"selected>
+                  <option value="https://olxtoto-slot.vercel.app/"selected>
                     Overview
                   </option>
-                  <option value="https://olxtoto.vercel.app/">
+                  <option value="https://olxtoto-slot.vercel.app/">
                     Reviews (99.861K)
                   </option>
-                  <option value="https://olxtoto.vercel.app/">
+                  <option value="https://olxtoto-slot.vercel.app/">
                     Support (102.835K)
                   </option>
-                  <option value="https://olxtoto.vercel.app/">FAQ (3)</option>
+                  <option value="https://olxtoto-slot.vercel.app/">FAQ (3)</option>
                 </select>
               </form>
             </div>
@@ -777,22 +777,22 @@
             >
               <a
                 class="text-md active wrapper-xs m-r-xxl"
-                href="https://olxtoto.vercel.app/"
+                href="https://olxtoto-slot.vercel.app/"
                 >Overview</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://olxtoto.vercel.app/"
+                href="https://olxtoto-slot.vercel.app/"
                 >Reviews (99.861K)</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://olxtoto.vercel.app/"
+                href="https://olxtoto-slot.vercel.app/"
                 >Support (102.835K)</a
               >
               <a
                 class="text-md wrapper-xs m-r-xxl"
-                href="https://olxtoto.vercel.app/"
+                href="https://olxtoto-slot.vercel.app/"
                 >FAQ (5)</a
               >
             </div>
@@ -987,7 +987,7 @@
 
                     <div class="panel-body item-description text-md text-wordbreak">
                         <h1>ABOUT OLXTOTO</h1>
-                      <p><a href="https://olxtoto.vercel.app/" style="color: rgb(255, 123, 0);">OLXTOTO</a> adalah platform permainan yang lengkap bagi pecinta togel dan slot online. Dengan berbagai pilihan pasaran togel 4D populer serta koleksi slot gacor dari provider ternama, pemain bisa menikmati permainan dengan peluang menang yang lebih optimal. Sistem yang digunakan juga sudah modern dan aman, sehingga setiap aktivitas bermain terasa nyaman dan terpercaya.</p>
+                      <p><a href="https://olxtoto-slot.vercel.app/" style="color: rgb(255, 123, 0);">OLXTOTO</a> adalah platform permainan yang lengkap bagi pecinta togel dan slot online. Dengan berbagai pilihan pasaran togel 4D populer serta koleksi slot gacor dari provider ternama, pemain bisa menikmati permainan dengan peluang menang yang lebih optimal. Sistem yang digunakan juga sudah modern dan aman, sehingga setiap aktivitas bermain terasa nyaman dan terpercaya.</p>
                       <p>Selain itu, OLXTOTO menawarkan berbagai bonus menarik seperti bonus deposit, cashback, hingga free spin yang bisa dimanfaatkan setiap hari. Tampilan situs yang user-friendly memudahkan pemain dalam mengakses semua fitur, mulai dari pemasangan angka togel hingga bermain slot favorit hanya dalam beberapa klik saja. Update hasil togel juga tersedia secara real-time untuk membantu pemain mengambil keputusan lebih tepat.</p>
                       <p>Didukung dengan layanan customer service profesional 24 jam dan proses transaksi cepat, OLXTOTO menjadi pilihan tepat untuk hiburan online yang praktis dan menguntungkan. Baik bagi pemula maupun pemain berpengalaman, platform ini memberikan kemudahan, keamanan, serta peluang besar untuk meraih kemenangan setiap harinya.</p>
 
@@ -1399,7 +1399,7 @@
 
                   <form
                     class="payment-form"
-                    action="https://olxtoto.vercel.app/"
+                    action="https://olxtoto-slot.vercel.app/"
                     method="POST"
                   >
                     <input
@@ -1874,7 +1874,7 @@
                         </button>
 
                         <form
-                          action="/sign_up/?redirectURL=https://olxtoto.vercel.app/&#63;purchasepanel=true"
+                          action="/sign_up/?redirectURL=https://olxtoto-slot.vercel.app/&#63;purchasepanel=true"
                           method="post"
                           class="form-validation"
                         >
@@ -1960,7 +1960,7 @@
                                 By signing up to OLXTOTO you confirm that you
                                 agree with the
                                 <a
-                                  href="https://olxtoto.vercel.app/"
+                                  href="https://olxtoto-slot.vercel.app/"
                                   target="_blank"
                                   >member terms and conditions</a
                                 >
@@ -2336,7 +2336,7 @@
                     <i class="fa fa-lg fa-pinterest m-t-xxs"></i>
                   </a>
                   <a
-                    href="https://olxtoto.vercel.app/"
+                    href="https://olxtoto-slot.vercel.app/"
                     target="_blank"
                     class="btn btn-icon btn-rss"
                   >
@@ -2351,22 +2351,22 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://olxtoto.vercel.app/">OLXTOTO</a>
+                    <a href="https://olxtoto-slot.vercel.app/">OLXTOTO</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">SITUS TOTO</a>
+                    <a href="https://olxtoto-slot.vercel.app/">SITUS TOTO</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">TOGEL ONLINE</a>
+                    <a href="https://olxtoto-slot.vercel.app/">TOGEL ONLINE</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">SLOT ONLINE</a>
+                    <a href="https://olxtoto-slot.vercel.app/">SLOT ONLINE</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">BANDAR TOGEL</a>
+                    <a href="https://olxtoto-slot.vercel.app/">BANDAR TOGEL</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">SITUS TOTO TOGEL</a
+                    <a href="https://olxtoto-slot.vercel.app/">SITUS TOTO TOGEL</a
                     >
                   </li>
                 </ul>
@@ -2378,13 +2378,13 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://olxtoto.vercel.app/">About OLXTOTO</a>
+                    <a href="https://olxtoto-slot.vercel.app/">About OLXTOTO</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">Refferal OLXTOTO</a>
+                    <a href="https://olxtoto-slot.vercel.app/">Refferal OLXTOTO</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">Data OLXTOTO</a>
+                    <a href="https://olxtoto-slot.vercel.app/">Data OLXTOTO</a>
                   </li>
                 </ul>
               </div>
@@ -2395,13 +2395,13 @@
                 </h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="https://olxtoto.vercel.app/">Help Center</a>
+                    <a href="https://olxtoto-slot.vercel.app/">Help Center</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">Forum</a>
+                    <a href="https://olxtoto-slot.vercel.app/">Forum</a>
                   </li>
                   <li>
-                    <a href="https://olxtoto.vercel.app/">Blog</a>
+                    <a href="https://olxtoto-slot.vercel.app/">Blog</a>
                   </li>
                 </ul>
               </div>
@@ -2428,35 +2428,35 @@
                   <li>
                     <a
                       style="color: white"
-                      href="https://olxtoto.vercel.app/"
+                      href="https://olxtoto-slot.vercel.app/"
                       >Contact</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://olxtoto.vercel.app/"
+                      href="https://olxtoto-slot.vercel.app/"
                       >Terms &amp; conditions</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://olxtoto.vercel.app/"
+                      href="https://olxtoto-slot.vercel.app/"
                       >Member terms</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://olxtoto.vercel.app/"
+                      href="https://olxtoto-slot.vercel.app/"
                       >Privacy policy</a
                     >
                   </li>
                   <li>
                     <a
                       style="color: white"
-                      href="https://olxtoto.vercel.app/"
+                      href="https://olxtoto-slot.vercel.app/"
                       >Refund policy</a
                     >
                   </li>
@@ -2473,7 +2473,7 @@
                 <strong>
                   <a
                     style="color: #1c2b36"
-                    href="https://olxtoto.vercel.app/"
+                    href="https://olxtoto-slot.vercel.app/"
                     >OLXTOTO</a
                   >
                 </strong>
